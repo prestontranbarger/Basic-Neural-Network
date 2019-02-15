@@ -1,4 +1,4 @@
-#Created 2/14/19 by QPU Misaligned 
+#Created 2/14/19 by QPU Misaligned
 
 import math
 import random
