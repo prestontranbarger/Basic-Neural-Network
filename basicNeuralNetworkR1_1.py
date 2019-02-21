@@ -1,5 +1,5 @@
 #Originally created 2/14/19 by QPU Misaligned
-#Release 1.1 created 2/17/19 by QPU Misaligned
+#Release 1.1 created 2/17/19 by QPU Misaligned 
 
 import math
 import random
