@@ -1,4 +1,4 @@
-#Originally created 2/14/19 by QPU Misaligned
+#Originally created 2/14/19 by QPU Misaligned 
 #Release 2 created 2/26/19 by QPU Misaligned
 #https://github.com/QPU-Misaligned/Basic-Neural-Network
 
